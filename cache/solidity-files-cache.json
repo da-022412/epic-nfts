@@ -37,8 +37,8 @@
       ]
     },
     "/Users/dennisacosta/Documents/epic-nfts/contracts/MyEpicNFT.sol": {
-      "lastModificationDate": 1641525379683,
-      "contentHash": "e158f03d821c6ef4d79b91cf24a1f9fc",
+      "lastModificationDate": 1641876972413,
+      "contentHash": "23b757ffa456c553646a40df1c32f387",
       "sourceName": "contracts/MyEpicNFT.sol",
       "solcConfig": {
         "version": "0.8.0",
